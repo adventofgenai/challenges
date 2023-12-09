@@ -16,5 +16,5 @@ Advent of GenAI - A week long hackathon organized by Intel Liftoff and Predictio
 4. Challenge 4: [RAG & Factuality](./04.md)
 5. Challenge 5: [Python Code Explainer](./05.md)
 
-Development Spring: [](./dev_sprint.md)
+Final Challenge / Development Sprint: [](./dev_sprint.md)
 
