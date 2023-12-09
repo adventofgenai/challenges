@@ -12,7 +12,7 @@ Advent of GenAI - A week long hackathon organized by Intel Liftoff and Predictio
 
 
 2. Challenge 2: [Tell me a Story](./02.md)
-3. Challenge 3: [Flipbook Odessey](./03.md)
+3. Challenge 3: [Flipbook Odyssey](./03.md)
 4. Challenge 4: [RAG & Factuality](./04.md)
 5. Challenge 5: [](./05.md)
 
