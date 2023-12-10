@@ -4,6 +4,9 @@
 
 Build a comprehensive Jupyter Notebook-based application that synthesizes the skills and techniques acquired from the daily challenges. This application can leverage a vector database (such as  LanceDB) / or a similarity search library like ScaNN, FAISS or your own code for search functionality if needed, Prediction Guard LLM API services, stable diffusion notebooks etc. Extra points for including multi modalities like text, video, audio etc. We are leaving the challenge wide open!
 
+<div align=center>
+<img width="800" alt="image" src="https://github.com/adventofgenai/challenges/assets/786476/cef817a0-36e8-4ea0-b5f5-d052cb916b04">
+</div>
 
 **Constraints:**
 
